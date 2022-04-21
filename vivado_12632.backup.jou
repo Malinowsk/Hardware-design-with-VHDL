@@ -1,0 +1,282 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Jun 14 16:51:52 2020
+# Process ID: 12632
+# Current directory: D:/VHDL/Proyecto_2020
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15660 D:\VHDL\Proyecto_2020\Proyecto_2020.xpr
+# Log file: D:/VHDL/Proyecto_2020/vivado.log
+# Journal file: D:/VHDL/Proyecto_2020\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/VHDL/Proyecto_2020/Proyecto_2020.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source processor_tb.tcl
+close_sim
+launch_simulation
+launch_simulation
+source processor_tb.tcl
+close_sim
+launch_simulation
+source processor_tb.tcl
+close_sim
+launch_simulation
+source processor_tb.tcl
+save_wave_config {D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg}
+add_files -fileset sim_1 -norecurse D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+set_property xsim.view D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg [get_filesets sim_1]
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+add_bp {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} 60
+remove_bps -file {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} -line 60
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+run 10 us
+run 10 us
+add_bp {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} 82
+remove_bps -file {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} -line 82
+run 10 us
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+run 10 us
+run 10 us
+add_bp {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} 82
+add_bp {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} 81
+run 10 us
+remove_bps -file {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} -line 82
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+add_bp {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} 82
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run all
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+remove_bps -file {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} -line 81
+add_bp {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} 81
+remove_bps -file {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} -line 82
+remove_bps -file {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} -line 81
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+run all
+run all
+run all
+run all
+run all
+run all
+run all
+run all
+run all
+run all
+run all
+run all
+run all
+add_bp {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} 82
+remove_bps -file {D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd} -line 82
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+run all
+close_sim
+launch_simulation
+open_wave_config D:/VHDL/Proyecto_2020/processor_tb_behav.wcfg
+source processor_tb.tcl
+run all
+close_sim

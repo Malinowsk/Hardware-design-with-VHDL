@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sim_1/imports/Lab2Material/processor_tb.vhd,1592187732,vhdl,,,,processor_tb,,,,,,,,
+D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/ALU/P1C.vhd,1591625907,vhdl,,,,alu,,,,,,,,
+D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Banco de registros/P1D.vhd,1589601114,vhdl,,,,registers,,,,,,,,
+D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/memory.vhd,1592184079,vhdl,,,,memory,,,,,,,,
+D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/Lab2Material/processor.vhd,1592183745,vhdl,D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sim_1/imports/Lab2Material/processor_tb.vhd,,,processor,,,,,,,,
+D:/VHDL/Proyecto_2020/Proyecto_2020.srcs/sources_1/imports/du/DU.vhd,1592121928,vhdl,,,,du,,,,,,,,

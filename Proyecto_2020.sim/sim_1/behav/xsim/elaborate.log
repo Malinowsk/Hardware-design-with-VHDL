@@ -1,0 +1,24 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 341cd1e188074e2e8767f065a8c46d59 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot processor_tb_behav xil_defaultlib.processor_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_textio
+Compiling architecture practica of entity xil_defaultlib.Registers [registers_default]
+Compiling architecture behavioral of entity xil_defaultlib.DU [du_default]
+Compiling architecture practica of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture processor_arq of entity xil_defaultlib.processor [processor_default]
+Compiling architecture mem_arq of entity xil_defaultlib.memory [\memory(c_elf_filename="D:\\VHDL...]
+Compiling architecture mem_arq of entity xil_defaultlib.memory [\memory(c_elf_filename="D:\\VHDL...]
+Compiling architecture processor_tb_arq of entity xil_defaultlib.processor_tb
+Built simulation snapshot processor_tb_behav
